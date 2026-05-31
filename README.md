@@ -212,4 +212,3 @@ Analyses the **kinetic energy** evolution over time for all three drag cases. Fo
 | Linear drag coefficient (comparison) | $k_1$ | 0.05 s⁻¹ |
 | Quadratic drag coefficient (comparison) | $k_2$ | 0.1 m⁻¹ |
 
----
